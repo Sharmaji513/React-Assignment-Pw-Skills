@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GitHub-User-Avatar-Finder-Web-App/static/css/main.46b71e24.css",
+    "main.js": "/GitHub-User-Avatar-Finder-Web-App/static/js/main.8aba3e62.js",
+    "index.html": "/GitHub-User-Avatar-Finder-Web-App/index.html",
+    "main.46b71e24.css.map": "/GitHub-User-Avatar-Finder-Web-App/static/css/main.46b71e24.css.map",
+    "main.8aba3e62.js.map": "/GitHub-User-Avatar-Finder-Web-App/static/js/main.8aba3e62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46b71e24.css",
+    "static/js/main.8aba3e62.js"
+  ]
+}
